@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\uC790\uB8CC\uAD6C\uC870 \uC624\uBAA9\\Omok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95829D90-D435-4C15-956F-E11A13FC5722}|Omok\\Omok.vcxproj|C:\\Users\\Admin\\Desktop\\\uC790\uB8CC\uAD6C\uC870 \uC624\uBAA9\\Omok\\Omok\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{95829D90-D435-4C15-956F-E11A13FC5722}|Omok\\Omok.vcxproj|solutionrelative:Omok\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{95829D90-D435-4C15-956F-E11A13FC5722}|Omok\\Omok.vcxproj|C:\\Users\\Admin\\Desktop\\\uC790\uB8CC\uAD6C\uC870 \uC624\uBAA9\\Omok\\Omok\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95829D90-D435-4C15-956F-E11A13FC5722}|Omok\\Omok.vcxproj|solutionrelative:Omok\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95829D90-D435-4C15-956F-E11A13FC5722}|Omok\\Omok.vcxproj|C:\\Users\\Admin\\Desktop\\\uC790\uB8CC\uAD6C\uC870 \uC624\uBAA9\\Omok\\Omok\\2022184002.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95829D90-D435-4C15-956F-E11A13FC5722}|Omok\\Omok.vcxproj|solutionrelative:Omok\\2022184002.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\uC18C\uC2A4.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uC790\uB8CC\uAD6C\uC870 \uC624\uBAA9\\Omok\\Omok\\\uC18C\uC2A4.cpp",
-              "RelativeDocumentMoniker": "Omok\\\uC18C\uC2A4.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uC790\uB8CC\uAD6C\uC870 \uC624\uBAA9\\Omok\\Omok\\\uC18C\uC2A4.cpp",
-              "RelativeToolTip": "Omok\\\uC18C\uC2A4.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uC790\uB8CC\uAD6C\uC870 \uC624\uBAA9\\Omok\\Omok\\main.cpp",
+              "RelativeDocumentMoniker": "Omok\\main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uC790\uB8CC\uAD6C\uC870 \uC624\uBAA9\\Omok\\Omok\\main.cpp",
+              "RelativeToolTip": "Omok\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T13:06:35.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2022184002.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uC790\uB8CC\uAD6C\uC870 \uC624\uBAA9\\Omok\\Omok\\2022184002.cpp",
+              "RelativeDocumentMoniker": "Omok\\2022184002.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uC790\uB8CC\uAD6C\uC870 \uC624\uBAA9\\Omok\\Omok\\2022184002.cpp",
+              "RelativeToolTip": "Omok\\2022184002.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-01T12:51:58.455Z",
               "EditorCaption": ""
