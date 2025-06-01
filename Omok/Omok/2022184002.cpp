@@ -19,7 +19,6 @@ void WhiteAttack_2022184002(int* x, int* y)
 }
 void WhiteDefence_2022184002(int x, int y)
 {
-	// 상대가 놓은 돌의 위치를 전달받아서 저장합니다
 	board_2022184002[y][x] = BLACK;
 }
 void BlackAttack_2022184002(int* x, int* y)
@@ -36,6 +35,5 @@ void BlackAttack_2022184002(int* x, int* y)
 }
 void BlackDefence_2022184002(int x, int y)
 {
-	// 상대가 놓은 돌의 위치를 전달받아서 저장합니다
 	board_2022184002[y][x] = WHITE;
 }

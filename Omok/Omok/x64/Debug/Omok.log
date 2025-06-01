@@ -1,2 +1,8 @@
-﻿  소스.cpp
+﻿  Judgment.cpp
+C:\Users\Admin\Desktop\자료구조 오목\Omok\Omok\Judgment.cpp(256,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Admin\Desktop\자료구조 오목\Omok\Omok\Judgment.cpp(286,30): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Admin\Desktop\자료구조 오목\Omok\Omok\Judgment.cpp(257,6): warning C4101: 'preStone' :참조되지 않은 지역 변수입니다.
+  2022184002.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
   Omok.vcxproj -> C:\Users\Admin\Desktop\자료구조 오목\Omok\x64\Debug\Omok.exe
